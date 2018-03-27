@@ -8,3 +8,5 @@ Feel free to use the code anyway you like. Just please keep my name and the link
 
 ## How I used it
 <img src="https://user-images.githubusercontent.com/4597931/37953026-e9c99b7a-31b6-11e8-8c35-fcff1421cb23.gif" width="400px"/>
+
+_Please note that no touch interactions are developed. There are only two methods to start the animation to go forward or backward in the stack._
